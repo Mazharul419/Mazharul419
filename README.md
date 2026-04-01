@@ -1,7 +1,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mazharul419&label=Profile%20views&color=0e75b6&style=flat" alt="mazharul419" /> </p>
 <h1 align="center">Hi 👋, I'm Mazharul Islam</h1>
 <div align="center">
-<img width="300" height="300" alt="RE AI" src="https://github.com/user-attachments/assets/34897f40-a5d3-4bfd-b52d-111c6cd50b7b" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&duration=2000&color=0EF74D&background=000000&vCenter=true&multiline=true&width=700&height=75&lines=~%24+A+passionate+DevOps+Engineer;~%24+And+I+build+AWS+infrastructure+the+RIGHT+way!)](https://git.io/typing-svg)
     <br />
     <a href="mazharulislam.dev">My Website</a>
     &middot;
