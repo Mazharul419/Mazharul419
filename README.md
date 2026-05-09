@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **mazharulislam419@gmail.com**
 
-<h3 align="left">My Skills::</h3>
+<h3 align="left">My Skills:</h3>
 
 #### Applications:
 
