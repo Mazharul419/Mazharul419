@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mazharul Islam</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&duration=2000&color=0EF74D&background=000000&vCenter=true&multiline=true&width=700&height=75&lines=~%24+A+passionate+DevOps+Engineer;~%24+And+I+build+AWS+infrastructure+the+RIGHT+way!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=100&duration=2000&color=0EF74D&background=000000&vCenter=true&multiline=true&width=700&height=75&lines=~%24+A+passionate+Data+Engineer;~%24+And+I+build+Data+infrastructure+the+RIGHT+way!)](https://git.io/typing-svg)
     <br />
     <a href="mazharulislam.dev">My Website</a>
     &middot;
@@ -11,13 +11,20 @@
     <a href="https://www.youtube.com/@devopswithmaz">YouTube</a>
 </div>
 
-- Currently working on [ECS Forge](https://github.com/Mazharul419/ECS-Forge)
+- Currently working on Finance Data Platform
 
-- Currently learning **Linux, Docker, Git, Terraform, Terragrunt, AWS, CI CD**
+- Currently learning **Python, AWS, Snowflake, dbt, Airflow, and Kubernetes**
 
 - 📫 How to reach me **mazharulislam419@gmail.com**
 
 <h3 align="left">My Skills:</h3>
+
+#### Data:
+- Python
+- Snowflake
+- dbt
+- AWS
+- Tableau
 
 #### Applications:
 
